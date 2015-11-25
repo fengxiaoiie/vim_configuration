@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/fengxiao/work/workspace/demo/build/default/hello_hybrid_exe/pm/iface'
+let g:netrw_dirhist_2='/home/fengxiao/work/workspace/demo/build/default/hello_hybrid_exe/pm/iface/src'
+let g:netrw_dirhist_3='/home/fengxiao/work/workspace/demo/build/default/hello_hybrid_exe/pm/iface/src/dict'
+let g:netrw_dirhist_4='/home/fengxiao/Bluespec/Bluespec_2014/util'
+let g:netrw_dirhist_5='/home/fengxiao/Bluespec/Bluespec_2014/util/flexlm'
+let g:netrw_dirhist_6='/home/fengxiao/work/beri/cheri/trunk/sw/cheritest'
